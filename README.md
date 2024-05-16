@@ -64,8 +64,8 @@ def map_gps_details_clustered(points, map_filename="gps_map_clustered.html"):
 5. Run the mapping script to generate an interactive map.
 
 ### Output
-* Conversion Script Output: converted_data.gpx
-* Mapping Script Output: gps_map_clustered.html***
+* Conversion Script Output: filename.gpx
+* Mapping Script Output: filename.html
 
 _***Open the generated gps_map_clustered.html file in a web browser to view the interactive map._
 
